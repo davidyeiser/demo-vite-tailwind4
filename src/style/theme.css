@@ -1,0 +1,10 @@
+/* design tokens */
+@theme {
+  --breakpoint-sm: 32rem;
+  --breakpoint-md: 60rem;
+  --breakpoint-lg: 73rem;
+  --breakpoint-xl: 84rem;
+  --breakpoint-2xl: 100rem;
+
+  --color-red-500: "#fc6262";
+}
